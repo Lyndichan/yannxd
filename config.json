@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6283809861522@s.whatsapp.net","6281261193133@s.whatsapp.net"],
+    "ownerName": "YannXD",
+    "instagram" : "https://instagram.com/YannXD",
+    "gcwa" : "https://chat.whatsapp.com/FXwOoFJQdWh85MVa0Icrx1",
+    "botName": "LynBot",
+    "footer": "YannXD",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "PHUuHo4b2nErbAZ",
+    "OpenAIKey": "your openai key",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": false,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": false,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": false,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
